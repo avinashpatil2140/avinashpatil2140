@@ -1,77 +1,86 @@
-<h1 align="center">👋 Hi, I'm Avinash Patil</h1>
-<h3 align="center">📊 Entry-Level Data Analyst | Python | SQL | Power BI | Machine Learning</h3>
+<!-- 🌟 Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Avinash+Patil;📊+Entry-Level+Data+Analyst;💡+Turning+Data+into+Insights+and+Decisions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analyst%20-%20Python%2C%20SQL%2C%20Power%20BI-blue?style=for-the-badge" />
+</p>
 
 ---
 
-### 💡 About Me
-I’m a detail-oriented **Data Analyst** passionate about transforming raw data into actionable insights that help organizations make smarter decisions.  
-With a strong foundation in **Python, SQL, and visualization tools**, I enjoy exploring data patterns, building dashboards, and applying ML models to solve real-world business problems.
+## 💡 About Me  
 
-🎯 *“Turning data into decisions that drive growth.”*
+I’m a **data-driven analyst** passionate about uncovering insights from data and helping businesses make informed decisions.  
+With a strong foundation in **Python, SQL, and Power BI**, I specialize in **data cleaning, analysis, and visualization** to transform information into actionable outcomes.
 
----
-
-### 🎓 Education
-
-**B.Tech in Information Technology (IT)**  
-*Dr. J.J. Magdum College of Engineering, Jaysingpur*  
-📅 2021 – 2025 | 📊 CGPA: 7.5 / 10  
+🎯 *“Turning complex data into clear stories.”*
 
 ---
 
-### 🧩 Technical Skills
+## 🧠 Technical Skills  
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Programming** | Python, SQL, C# |
-| **Libraries** | NumPy, Pandas, Matplotlib, Scikit-learn |
-| **Visualization** | Power BI, Advanced Excel, Dashboards |
-| **Databases** | PostgreSQL, MS-SQL |
-| **Web Dev (Internship)** | HTML, CSS, JavaScript, Bootstrap, ASP.NET |
-| **Cloud / Tools** | AWS, GitHub, AI Chatbots |
-| **Core Abilities** | Data Cleaning, Data Modelling, Predictive Analytics, Automation |
-
----
-
-### 📂 Projects
-
-#### 🧠 [Employee Attrition Prediction – Salifort Motors (Google Capstone)](https://github.com/avinashpatil2140)
-Built ML models in Python to predict employee turnover and highlight retention factors using classification and regression analysis.
-
-#### 📊 [Blinkit Sales Dashboard – Python & Power BI](https://github.com/avinashpatil2140)
-Analyzed sales and outlet data; designed an interactive Power BI dashboard to visualize performance and profitability.
-
-#### 🤖 [AI Index Exploratory Data Analysis](https://github.com/avinashpatil2140)
-Used Python for regression, trend analysis, and visualization of global AI research data.
-
-#### 🎬 [Netflix Content Analysis – SQL](https://github.com/avinashpatil2140)
-Performed SQL-based EDA to uncover content patterns by genre, country, and viewer ratings.
-
-#### 🌍 [World Layoffs Data Cleaning – SQL](https://github.com/avinashpatil2140)
-Cleaned and standardized large-scale layoff datasets to identify workforce trends across industries.
+<p align="center">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-006699?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 💼 Experience
+## 📂 Featured Projects  
 
-**Web Development Intern**  
-_Revolution IT Solutions (Jun 2024 – Jul 2024)_  
-- Worked on front-end development using **HTML, CSS, JavaScript, Bootstrap**  
-- Gained hands-on experience integrating front-end logic with **MS-SQL and ASP.NET**
+### 🧠 [Employee Attrition Prediction – Salifort Motors (Google Capstone)](https://github.com/avinashpatil2140)
+Built ML models using Python to predict employee turnover and identify key retention factors.  
+**Tech:** Python, Pandas, Scikit-learn  
+
+### 📊 [Blinkit Sales Dashboard – Python & Power BI](https://github.com/avinashpatil2140)
+Analyzed sales and outlet data; created an interactive Power BI dashboard to visualize KPIs and trends.  
+**Tech:** Power BI, Excel, Python  
+
+### 🤖 [AI Index Exploratory Data Analysis](https://github.com/avinashpatil2140)
+Performed EDA on global AI research data using regression and visual analytics.  
+**Tech:** Python, Matplotlib, Pandas  
+
+### 🎬 [Netflix Content Analysis – SQL](https://github.com/avinashpatil2140)
+Conducted SQL-based analysis to uncover global content patterns by genre, region, and ratings.  
+**Tech:** SQL, PostgreSQL  
+
+### 🌍 [World Layoffs Data Cleaning – SQL](https://github.com/avinashpatil2140)
+Cleaned and standardized workforce data for layoff trend analysis.  
+**Tech:** SQL, Excel  
 
 ---
 
-### 📜 Certifications
+## 💼 Experience  
 
-- 🎓 **Google Advanced Data Analytics** – Coursera *(2025)*  
-- 💻 **Data Analytics Bootcamp** – Alex The Analyst *(2025)*  
-- 🤖 **AI-Powered Data Analytics Mastery** – Udemy *(Ongoing)*  
-- 📈 **Quantitative Research Simulation** – JPMorgan Chase & Co. *(Forage)*  
-- 🧾 **Data Analytics Simulation** – Deloitte *(Forage)*  
+**Web Development Intern – Revolution IT Solutions**  
+📅 *June 2024 – July 2024*  
+- Developed front-end components using **HTML, CSS, JavaScript, and Bootstrap**  
+- Gained practical exposure to **ASP.NET and MS-SQL integration**  
 
 ---
 
-### 📊 GitHub Stats
+## 📜 Certifications  
+
+🎓 Google Advanced Data Analytics – *Coursera (2025)*  
+💻 Data Analytics Bootcamp – *Alex The Analyst (2025)*  
+🤖 AI-Powered Data Analytics Mastery – *Udemy (Ongoing)*  
+📈 Quantitative Research Simulation – *JPMorgan Chase (Forage)*  
+🧾 Data Analytics Simulation – *Deloitte (Forage)*  
+
+---
+
+## 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avinashpatil2140&show_icons=true&theme=tokyonight" height="165">
@@ -80,14 +89,16 @@ _Revolution IT Solutions (Jun 2024 – Jul 2024)_
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinash-patil-41a737374/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:avinashpatil@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-  <a href="https://github.com/avinashpatil2140"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/avinash-patil-41a737374/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:avinashpatil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/avinashpatil2140"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-⭐ *“Data is powerful when transformed into insight — that’s where I come in.”*
+<p align="center">
+⭐ <b>“Data is powerful when transformed into insight — that’s where I come in.”</b> ⭐
+</p>
