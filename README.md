@@ -1,6 +1,6 @@
 <!-- 🌈 Dynamic Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Avinash+Patil!;📊+Entry+Level+Data+Analyst;🚀+%7C+Python+%7C+SQL+%7C+Power+BI;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Avinash+Patil!;📊+Entry+Level+Data+Analyst;🚀+%7C+Python+%7C+SQL+%7C+Power+BI;Excel+ML+AWS;" alt="Typing SVG" />
 </p>
 
 ## 💡 About Me  
