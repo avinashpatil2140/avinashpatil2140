@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Avinash+Patil!;📊+Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;🚀+Analytics+and+Data+Insights" alt="Typing SVG" />
 </p>
----
 
 ## 💡 About Me  
 
