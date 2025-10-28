@@ -1,6 +1,6 @@
 <!-- 🌈 Dynamic Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Avinash+Patil!;📊+Entry+Level+Data+Analyst;🚀+%7C+Python+%7C+SQL+%7C+Power+BI%7C;%7CExcel%7C+%7CML%7C+%7CAWS%7C;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Avinash+Patil!;📊+Entry+Level+Data+Analyst;🚀+%7C+Python+%7C+SQL+%7C+Power+BI+%7C;🚀+%7C+Excel+%7C+%7C+ML+%7C+%7+CAWS+%7C;" alt="Typing SVG" />
 </p>
 
 ## 💡 About Me  
@@ -29,7 +29,7 @@ I specialize in **Python, SQL, Power BI, and machine learning**, and I enjoy sol
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40" alt="Excel" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" alt="Excel" />
 
 </p>
 
