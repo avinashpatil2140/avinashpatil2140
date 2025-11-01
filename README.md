@@ -40,30 +40,6 @@ I specialize in **Python, SQL, Power BI, and machine learning**, and I enjoy sol
 
 ---
 
-## 🚀 Featured Projects  
-
-#### 🧠 [Employee Attrition Prediction (Google Capstone)](https://github.com/avinashpatil2140)
-Built ML models using Python to predict employee turnover and key retention factors.  
-*Skills:* Pandas, Scikit-learn, Data Visualization  
-
-#### 📊 [Blinkit Sales Analysis Dashboard](https://github.com/avinashpatil2140)
-Interactive Power BI dashboard analyzing sales performance and profitability.  
-*Skills:* Power BI, DAX, Python  
-
-#### 🤖 [AI Index Exploratory Data Analysis](https://github.com/avinashpatil2140)
-Explored global AI research data with regression and visualization insights.  
-*Skills:* Python, Matplotlib, Pandas  
-
-#### 🎬 [Netflix Content Analysis – SQL](https://github.com/avinashpatil2140)
-Analyzed Netflix data using SQL to identify content trends across genres and countries.  
-*Skills:* SQL, Data Querying  
-
-#### 🌍 [World Layoffs Data Cleaning – SQL](https://github.com/avinashpatil2140)
-Cleaned and standardized datasets for workforce trend analysis.  
-*Skills:* SQL, Data Cleaning  
-
----
-
 ## 📊 GitHub Metrics  
 
 <p align="center">
