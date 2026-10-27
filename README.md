@@ -5,7 +5,7 @@
 
 ## 💡 About Me  
 
-🎯 I’m an **entry-level Data Analyst** who loves making sense of numbers and turning raw datasets into business insights.  
+🎯 I’m an **entry-level Ai Enthusiast** who loves making sense of numbers and turning raw datasets into business insights.  
 I specialize in **Python, SQL, Gen Ai, and machine learning**, and I enjoy solving problems with data storytelling, predictive analysis, and visual dashboards.
 
 ✨ *“Great analysis turns data into action.”*
@@ -34,7 +34,7 @@ I specialize in **Python, SQL, Gen Ai, and machine learning**, and I enjoy solvi
 </p>
 
 <p align="center">
-  🐍 Python • 🧮 SQL • 📊 Gen AI • 📈 Agentic AI • 🔍 Data Cleaning & EDA • 🤖 ML Models • ☁️ Machine Learning
+  🐍 Python • 🧮 SQL • 📊 AI • 📈 Gen AI • 🔍 Data Cleaning & EDA • 🤖 ML Models • ☁️ Langchain
 </p>
 
 
@@ -60,9 +60,9 @@ I specialize in **Python, SQL, Gen Ai, and machine learning**, and I enjoy solvi
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=📈+Data+%3D+Insight+%3D+Impact;Let's+Create+Value+from+Data!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=📈+Data+%3D+Insight+%3D+Impact;Let's+Create+The+World+WIth+Data!">
 </p>
 
 <p align="center">
-⭐ <b>“Data is powerful when transformed into insight — that’s where I come in.”</b> ⭐
+⭐ <b>“Creativity is powerful when you know how to play with it — that’s where I come in.”</b> ⭐
 </p>
