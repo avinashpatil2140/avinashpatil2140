@@ -6,9 +6,9 @@
 ## 💡 About Me  
 
 🎯 I’m an **entry-level Ai Enthusiast** who loves making sense of numbers and turning raw datasets into business insights.  
-I specialize in **Python, SQL, Gen Ai, and machine learning**, and I enjoy solving problems with data storytelling, predictive analysis, and visual dashboards.
+I specialize in **Python, SQL, Gen Ai, and machine learning**, and I enjoy solving problems, Building Models, Creating .
 
-✨ *“Great analysis turns data into action.”*
+✨ *“Aspiring AI Engineer skilled in ML, LLMs, and Python.”*
 
 ---
 
