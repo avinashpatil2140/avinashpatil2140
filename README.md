@@ -1,12 +1,12 @@
 <!-- 🌈 Dynamic Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Avinash+Patil!;📊+Data+Analyst!;🚀+Web+Developer!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Avinash+Patil!;📊+AI+Engineer!;📊+Data+Analyst!;🚀+Web+Developer!;" alt="Typing SVG" />
 </p>
 
 ## 💡 About Me  
 
 🎯 I’m an **entry-level Data Analyst** who loves making sense of numbers and turning raw datasets into business insights.  
-I specialize in **Python, SQL, Power BI, and machine learning**, and I enjoy solving problems with data storytelling, predictive analysis, and visual dashboards.
+I specialize in **Python, SQL, Gen Ai, and machine learning**, and I enjoy solving problems with data storytelling, predictive analysis, and visual dashboards.
 
 ✨ *“Great analysis turns data into action.”*
 
@@ -34,7 +34,7 @@ I specialize in **Python, SQL, Power BI, and machine learning**, and I enjoy sol
 </p>
 
 <p align="center">
-  🐍 Python • 🧮 SQL • 📊 Power BI • 📈 Excel • 🔍 Data Cleaning & EDA • 🤖 ML Models • ☁️ Cloud Basics
+  🐍 Python • 🧮 SQL • 📊 Gen AI • 📈 Agentic AI • 🔍 Data Cleaning & EDA • 🤖 ML Models • ☁️ Machine Learning
 </p>
 
 
